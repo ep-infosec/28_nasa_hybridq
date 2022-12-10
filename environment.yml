@@ -1,0 +1,10 @@
+name: hybridq
+
+dependencies:
+  - pip
+  - numba
+  - numpy
+  - scipy
+  - mpi4py
+  - pip:
+    - ./
